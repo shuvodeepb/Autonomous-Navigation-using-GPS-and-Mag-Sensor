@@ -1,10 +1,5 @@
-# Integration of code, made by ABD on June 8,2018
-# This model is working suceessfully fine and saved this file as Int_base.py
-# use this model as base for future development/tunung purposes.
-# Mag sensor final calibrated code added  by SB on June 11,2018
-# Mag sensor calibration code modified by SB on June 12,2018
-# Collision detection added by SB on June 18,2018
-# PWM Reset added to the code at the beginning by SB on June 19,2018
+# Updated with adafruit libraries
+#Code developed for beagle bone black RevC 
 import serial
 import math
 import Adafruit_BBIO.UART as UART
